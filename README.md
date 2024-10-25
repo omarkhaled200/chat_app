@@ -33,14 +33,14 @@ https://github.com/user-attachments/assets/e32e8ec3-e515-4fa3-bd5d-e28414b8a7e5
 
 -First screen 
 
-![WhatsApp Image 2024-10-25 at 19 25 21_f6c28c70](https://github.com/user-attachments/assets/5f008c34-d1a8-4c6f-ab47-a9c3cb331f31)
+![Screenshot_1729873791](https://github.com/user-attachments/assets/c47b2ba2-3138-4896-8762-e7d6d7a55ac4)
 
 -Second screen
 
-![WhatsApp Image 2024-10-25 at 19 25 22_05ebf09a](https://github.com/user-attachments/assets/10ae89df-fdf4-4bca-869d-c2298bd276e3)
+![Screenshot_1729873915](https://github.com/user-attachments/assets/227c8acd-c9a6-4fbd-99f3-5025882be882)
 
 -Third screen 
 
-![Screenshot 2024-10-25 192444](https://github.com/user-attachments/assets/0b065e34-e9d6-4263-a109-eae1a9d18d53)
+![Screenshot_1729873797](https://github.com/user-attachments/assets/6b58ffb8-75f6-4d63-87f7-1f4a94629d9b)
 
 
