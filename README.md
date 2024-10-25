@@ -15,12 +15,13 @@ A new Flutter project.
 
 - will start to chatting with her friend 
 
-=====================================================================================================================
+================================================================
+
 -this video when he start to send the frist message to friend 
 
 https://github.com/user-attachments/assets/456a656f-b734-4ee6-b6fb-d8fba1b9543e
 
-=====================================================================================================================
+================================================================
 -This video is when his friend replies to him
 
 https://github.com/user-attachments/assets/e32e8ec3-e515-4fa3-bd5d-e28414b8a7e5
